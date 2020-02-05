@@ -1,5 +1,5 @@
 # Articles_Base
-a [Sails](http://sailsjs.org) application
+A [Sails](http://sailsjs.org) application
 
 ## To install sails.js
 ```
